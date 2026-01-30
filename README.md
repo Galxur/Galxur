@@ -1,9 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on 
-🛍️Professional Online shopping sites and desiging 🍴Online menus
-<br>👯 I’m looking to collaborate on
-🧑‍💻more complex sites with more budget so I can use my full capacity
-<br>🤝 I’m looking for help with
+🔭 I’m currently working on <br>
+🛍️Professional Online shopping sites and desiging 🍴Online menus<br>
+<br>👯 I’m looking to collaborate on<br>
+🧑‍💻more complex sites with more budget so I can use my full capacity<br>
+<br>🤝 I’m looking for help with<br>
 💻frontend developers for better efficiency
 
 
@@ -20,8 +20,11 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Galxur&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ About me 
+Full stack developer at , Shiraz
+Project-based freelance engagements delivering end-to-end web solutions for clients.Build and ship responsive web apps using Django, Python, HTML/CSS, and JavaScript.Design user-centric interfaces and prototypes in Figma; translate wireframes into production-ready UI.Develop RESTful APIs, model data in MySQL/SQLite, and implement authentication and core CRUD features.Optimize performance, accessibility, SEO, and cross-browser compatibility; ensure mobile responsiveness.Own full project lifecycle—scoping, estimating, sprint planning, delivery, and maintenance—with clear client communication.Use Git/GitHub for version control and CI/CD; deploy to Linux/cloud environments.Tech: Django,DRF , Python, HTML5, CSS3, JavaScript, Bootstrap/Tailwind, Figma, Git, REST APIs.
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Galxur&icon=0&color=0)](https://visitcount.itsvg.in)
